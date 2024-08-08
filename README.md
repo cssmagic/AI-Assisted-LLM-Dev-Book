@@ -1,6 +1,6 @@
 # 《AI 辅助编程入门》
 
-> 魔法哥负责这本书最后两章案例。本仓库用于解答读者对于案例部分的疑问。
+> 魔法哥撰写了这本书的最后两章案例。本仓库用于解答读者对于案例部分的疑问。
 
 【本书封面待定】
 
@@ -17,7 +17,7 @@
 
 ## 目录
 
-* 序
+* [序](https://github.com/cssmagic/AI-Assisted-LLM-Dev-Book/issues/1)
 * 前言
 * 第一章 AI 辅助编程工具与编程学习
 * 第二章 GitHub Copilot 初识
@@ -66,7 +66,7 @@
 * 配套代码仓库： https://github.com/liteli1987gmail/ai-assisdant-book
 	* [第九章代码](https://github.com/liteli1987gmail/ai-assisdant-book/tree/main/ch9)
 	* 第十章代码（待上传）
-* simple-chat 项目（第十章案例的后续迭代）： https://github.com/cssmagic/simple-chat
+* `simple-chat` 开源项目（第十章案例的升级版）： https://github.com/cssmagic/simple-chat
 
 #### 其他资料
 
