@@ -54,7 +54,9 @@
 
 * 关于本书案例部分的疑问、讨论、反馈，请发 issue（待定）。
 
-* 本书的官方读者群：（待定）
+* 本书的官方读者群：（微信扫码后，发送 `?????` 进群）
+
+	![QR](https://github.com/user-attachments/assets/ee3fd40a-2450-437b-b55a-8e2e360c1b0f)
 
 
 ## 文档与资料 <a name="doc">&nbsp;</a>
