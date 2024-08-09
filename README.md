@@ -52,7 +52,7 @@
 
 ## 读者交流 <a name="feedback">&nbsp;</a>
 
-* 关于本书案例部分的疑问、讨论、反馈，请发 issue（待定）。
+* 关于本书案例部分的疑问、讨论、反馈，[请发 issue](https://github.com/cssmagic/AI-Assisted-LLM-Dev-Book/issues/new)。
 
 * 本书的官方读者群：（微信扫码后，发送 `?????` 进群）
 
@@ -63,10 +63,9 @@
 
 #### 配套资料
 
-* 配套代码仓库： https://github.com/liteli1987gmail/ai-assisdant-book
-	* [第九章代码](https://github.com/liteli1987gmail/ai-assisdant-book/tree/main/ch9)
-	* 第十章代码（待上传）
-* `simple-chat` 开源项目（第十章案例的升级版）： https://github.com/cssmagic/simple-chat
+* [第九章代码](https://github.com/liteli1987gmail/ai-assisdant-book/tree/main/ch9)
+* [第十章代码](https://github.com/liteli1987gmail/ai-assisdant-book/tree/main/ch10)
+* [`simple-chat` 开源项目](https://github.com/cssmagic/simple-chat)（第十章案例升级版）
 
 #### 其他资料
 
