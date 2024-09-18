@@ -3,30 +3,50 @@ id: 2
 tags: [文档]
 ---
 
-# 本书相关链接
+# 本书相关网址清单
+
+## 序
+
+| 章节号 | 链接名 | 链接地址 | 备注 |
+|-------|-------|---------|-----|
+| 序    | 附赠视频 | https://cmcm.link/channel | 需要微信扫码关注视频号。|
+| 序    | AI 资源汇总 | https://github.com/cssmagic/Awesome-AI |
+
+
+## 第一章～第八章
+
+| 书中打码的网址 | 实际地址 | 备注 |
+|-----------------|---------|-----|
+| `https://api.mo**shot.cn/v1` | `https://api.moonshot.cn/v1`
+| `http://www.yo**website.com/form` | - | 此为示例中出现的虚拟地址，仅提示读者输入自己的网站地址之用。
+| `https://api.gi**ub.com` | `https://api.github.com`
+| `https://hu**ingface.co/spaces` | `https://huggingface.co/spaces`
+| `https://mo**lscope.cn` | `https://www.modelscope.cn`
+
 
 ## 第九章
 
 | 章节号 | 链接名 | 链接地址 | 备注 |
-|---|---|---|---|
-| 9.3.2 | OpenAI SDK（Python 版） |https://github.com/openai/openai-python||
+|-------|-------|---------|-----|
+| 9.3.2 | OpenAI SDK（Python 版） | https://github.com/openai/openai-python ||
 | 9.3.3 | OpenAI API 调用地址 | `https://api.openai.com/v1` ||
 | 9.7.4 | 本书配套的代码仓库 | https://github.com/liteli1987gmail/ai-assisdant-book ||
 | 9.8.1 | OpenAI 官网提供的 GPT API 服务 | https://platform.openai.com/docs/overview ||
 | 9.8.1 | Azure 云服务提供的 GPT API 服务 | https://learn.microsoft.com/zh-cn/azure/ai-services/openai/ ||
-| 9.8.1 | API2D（大模型 API 聚合平台） | https://api2d.com/ ||
+| 9.8.1 | API2D（LLM API 聚合平台） | https://api2d.com/ ||
 | 9.8.1 | Kimi（Moonshot）开放平台 | https://platform.moonshot.cn/ ||
-| 9.8.1 | DeepSeek 开放平台 | https://platform.deepseek.com/ |需要登录。|
+| 9.8.1 | DeepSeek 开放平台 | https://platform.deepseek.com/ | 需要登录。|
 | 9.8.1 | 零一万物开放平台 | https://platform.lingyiwanwu.com/ ||
 | 9.8.1 | MiniMax 开放平台 | https://platform.minimaxi.com/ ||
-| 9.8.2 | GPTs 编辑界面 | https://chatgpt.com/gpts/editor |需要订阅 ChatGPT 会员。|
+| 9.8.2 | GPTs 编辑界面 | https://chatgpt.com/gpts/editor | 需要订阅 ChatGPT 会员。|
 | 9.8.3 | OpenAI 官方文档：对话式文本补全 API 请求参数 | https://platform.openai.com/docs/api-reference/chat ||
 | 9.8.4 | OpenAI 官方文档：对话式文本补全 API 返回数据 | https://platform.openai.com/docs/api-reference/chat/object ||
 
+
 ## 第十章
 
-| 章节号 | 链接名 | 链接地址 | 备注 |
-|---|---|---|---|
+| 章节号  | 链接名 | 链接地址 | 备注 |
+|--------|-------|---------|-----|
 | 10.2.2 | Node.js 官网 | https://nodejs.org/zh-cn | |
 | 10.2.2 | Chrome 浏览器安装地址 | https://www.google.com/chrome/ | |
 | 10.2.2 | Edge 浏览器 | https://www.microsoft.com/zh-cn/edge/download | |
@@ -39,6 +59,4 @@ tags: [文档]
 | 10.7.3 | OpenAI SDK（Node.js 版）在 GitHub 上的主页 | https://github.com/openai/openai-node | |
 | 10.9.1 | `simple-chat` 开源项目：本章代码的后续改进和升级 | https://github.com/cssmagic/simple-chat | |
 | 10.9.2 | GitHub Pages 服务 | https://pages.github.com/ | |
-| 10.9.2 | Vercel 提供的服务 | https://vercel.com/docs/build-output-api/v3/primitives#static-files | |
-| 10.9.2 | Netlify 提供的服务 | https://www.netlify.com/ | |
 | 10.9.2 | 魔搭创空间：创建静态应用 | https://www.modelscope.cn/studios/create | 需要登录。表单中 “接入SDK” 需要选择 “Static”。 |

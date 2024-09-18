@@ -66,7 +66,7 @@
 * [第九章代码](https://github.com/liteli1987gmail/ai-assisdant-book/tree/main/ch9)
 * [第十章代码](https://github.com/liteli1987gmail/ai-assisdant-book/tree/main/ch10)
 	* [`simple-chat` 开源项目](https://github.com/cssmagic/simple-chat)（第十章案例升级版）
-* [本书相关链接](https://github.com/cssmagic/AI-Assisted-LLM-Dev-Book/issues/2)
+* [本书相关网址清单](https://github.com/cssmagic/AI-Assisted-LLM-Dev-Book/issues/2)
 
 #### 其他资料
 
