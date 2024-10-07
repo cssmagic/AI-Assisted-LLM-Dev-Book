@@ -2,7 +2,7 @@
 
 > 魔法哥撰写了这本书的最后两章案例。本仓库用于解答读者对于案例部分的疑问。
 
-【本书封面待定】
+![【封面】](https://github.com/user-attachments/assets/de4cda37-afcb-4e7d-a4e5-5942e804d64d)
 
 ## 基本信息
 
@@ -35,15 +35,17 @@
 * [第十章插图（彩色版）](./figures/chapter-10)
 
 
+<!--
 
 ## 读者交流 <a name="feedback">&nbsp;</a>
 
-<!-- * 关于本书案例部分的疑问、讨论、反馈，[请发 issue](https://github.com/cssmagic/AI-Assisted-LLM-Dev-Book/issues/new)。 -->
+* 关于本书案例部分的疑问、讨论、反馈，[请发 issue](https://github.com/cssmagic/AI-Assisted-LLM-Dev-Book/issues/new)。
 
 * 本书的官方读者群：（微信扫码后，发送 `?????` 进群）
 
 	![QR](https://github.com/user-attachments/assets/ee3fd40a-2450-437b-b55a-8e2e360c1b0f)
 
+-->
 
 ***
 
