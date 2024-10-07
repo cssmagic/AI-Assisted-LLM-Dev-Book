@@ -21,18 +21,20 @@
 
 #### 配套代码
 
-* [第九章代码](https://github.com/liteli1987gmail/ai-assisdant-book/tree/main/ch9)
-* [第十章代码](https://github.com/liteli1987gmail/ai-assisdant-book/tree/main/ch10)
-* [`simple-chat` 开源项目](https://github.com/cssmagic/simple-chat)（第十章案例升级版）
+* [本书配套代码仓库](https://github.com/liteli1987gmail/ai-assisdant-book)
+* [第九章配套代码（压缩包）](https://github.com/cssmagic/AI-Assisted-LLM-Dev-Book/releases/download/1.0.0/case-1.code.zip)
+* [第十章配套代码（压缩包）](https://github.com/cssmagic/AI-Assisted-LLM-Dev-Book/releases/download/1.0.0/case-2.code.zip)
+* [开源项目 `simple-chat`](https://github.com/cssmagic/simple-chat)（第十章案例升级版）
 
 #### 配套资料
 
 * [本书相关网址清单](https://github.com/cssmagic/AI-Assisted-LLM-Dev-Book/issues/2)
+* [附送视频](https://cmcm.link/channel)（微信扫码，关注视频号）
 
 #### 其他资料
 
-* [第九章插图（彩色版）](./figures/chapter-09)
-* [第十章插图（彩色版）](./figures/chapter-10)
+* [第九章插图（彩色高清版）](./figures/chapter-09)
+* [第十章插图（彩色高清版）](./figures/chapter-10)
 
 
 <!--
