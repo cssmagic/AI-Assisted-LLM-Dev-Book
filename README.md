@@ -9,14 +9,17 @@
 * 书名：**《AI 辅助编程入门：使用 GitHub Copilot 零基础开发 LLM 应用》**
 * 作者：李特丽、CSS魔法
 * 出版社：电子工业出版社 · 博文视点
-* 出版时间：（预计 2024 年 11 月）
+* 出版时间：2024 年 11 月 1 日
 * ISBN：9787121489204
 * 页数：约 336 页（胶版纸，黑白印刷）
 * 定价：89 元人民币
-* 纸质书购买渠道：（待定）
-* 电子书购买渠道：（待定）
 
+<!-- -->
 
+* 购买纸质书：[京东（自营正版）](https://cmcm.link/book/2/jd)
+* 购买电子书：[小报童平台](https://xiaobot.net/p/AIAssistedDev)
+* 购买签名书：<br>
+	[![签名书](https://github.com/user-attachments/assets/4c2ad8a3-a550-420d-a95e-e2c378094d66)](https://cmcm.link/book/2/wd)
 
 ## 文档与资料 <a name="doc">&nbsp;</a>
 
@@ -35,7 +38,7 @@
 ### 配套资料
 
 * [本书相关网址清单](https://github.com/cssmagic/AI-Assisted-LLM-Dev-Book/issues/2)
-* [附送视频](https://cmcm.link/channel)（微信扫码，关注视频号）
+* [附送视频](https://www.cssmagic.net/lab/channel/)（微信扫码，关注视频号）
 
 ### 其他资料
 
@@ -43,17 +46,13 @@
 * [第十章插图（彩色高清版）](./figures/chapter-10)
 
 
-<!--
-
 ## 读者交流 <a name="feedback">&nbsp;</a>
 
 * 关于本书案例部分的疑问、讨论、反馈，[请发 issue](https://github.com/cssmagic/AI-Assisted-LLM-Dev-Book/issues/new)。
 
-* 本书的官方读者群：（微信扫码后，发送 `48920` 进群）
+* 加入微信交流群：快人一步获取 AI 资讯、与数百名同好交流：
 
-	![QR](https://github.com/user-attachments/assets/ee3fd40a-2450-437b-b55a-8e2e360c1b0f)
-
--->
+	![qun-qr](https://github.com/cssmagic/blog/assets/1231359/356aedff-723a-4b5d-a776-c9cacdcebec8)
 
 ***
 
