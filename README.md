@@ -17,7 +17,6 @@
 <!-- -->
 
 * 购买纸质书：[京东（自营正版）](https://cmcm.link/book/2/jd)
-* 购买电子书：[小报童平台](https://xiaobot.net/p/AIAssistedDev)
 * 购买签名书：<br>
 	[![签名书](https://github.com/user-attachments/assets/4c2ad8a3-a550-420d-a95e-e2c378094d66)](https://cmcm.link/book/2/wd)
 
