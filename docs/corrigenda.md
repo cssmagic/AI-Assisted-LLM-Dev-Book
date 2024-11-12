@@ -7,9 +7,14 @@ tags: [文档]
 
 > #### 如何提交勘误？ <a name="how-to">&nbsp;</a>
 >
-> 如果你在阅读本书的过程中发现任何错误（包括文字、图片、排版、技术等方面的错误），[请新开一个 issue](https://github.com/cssmagic/AI-Assisted-LLM-Dev-Book/issues/new) 来描述这个错误，并请在标题中注明 “提交勘误”。当编辑或译者确认为错误后，将会收录到本页面中。
+> 如果你在阅读本书的过程中发现任何错误（包括文字、图片、排版、技术等方面的错误），[请新开一个 issue](https://github.com/cssmagic/AI-Assisted-LLM-Dev-Book/issues/new) 来描述这个错误，并请在标题中注明 “提交勘误”。当编辑或作者确认为错误后，将会收录到本页面中。
 >
 > 感谢你的严谨让这本书变得圆满，其他读者必将从中受益！
+
+
+### 第七章、第八章
+
+关于工作目录的描述，`ai-assisdant-book` 应改为 `ai-assistant-book`。
 
 
 ### 第 210 页 · 最后一段
