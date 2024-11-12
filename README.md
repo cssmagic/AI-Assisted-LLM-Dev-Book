@@ -1,6 +1,6 @@
 # 《AI 辅助编程入门》
 
-> 魔法哥撰写了这本书的最后两章案例。本仓库用于解答读者对于案例部分的疑问。
+> 魔法哥撰写了这本书的最后两章案例。本仓库用于存档相关资料。
 
 ![【封面】](https://github.com/user-attachments/assets/fca14e48-4855-4a29-aedd-89130c2b84ec)
 
@@ -28,11 +28,10 @@
 
 ### 配套代码
 
-<!-- * [本书配套代码仓库](https://github.com/liteli1987gmail/ai-assisdant-book) -->
-
+* [本书配套代码仓库](https://github.com/liteli1987gmail/ai-assistant-book)
 * [第九章配套代码（压缩包）](https://github.com/cssmagic/AI-Assisted-LLM-Dev-Book/releases/download/1.0.0/case-1.code.zip)
 * [第十章配套代码（压缩包）](https://github.com/cssmagic/AI-Assisted-LLM-Dev-Book/releases/download/1.0.0/case-2.code.zip)
-* [开源项目 `simple-chat`](https://github.com/cssmagic/simple-chat)（第十章案例升级版）
+<!-- * [开源项目 `simple-chat`](https://github.com/cssmagic/simple-chat)（第十章案例升级版） -->
 
 ### 配套资料
 
