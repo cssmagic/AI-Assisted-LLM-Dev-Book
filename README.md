@@ -20,9 +20,10 @@
 
 ## 文档与资料 <a name="doc">&nbsp;</a>
 
-### 勘误表
+### 内容预览
 
-* [勘误表](https://github.com/cssmagic/AI-Assisted-LLM-Dev-Book/issues/4)
+* [总目录](https://github.com/cssmagic/AI-Assisted-LLM-Dev-Book/issues/3)
+* [序](https://github.com/cssmagic/AI-Assisted-LLM-Dev-Book/issues/1)
 
 ### 配套代码
 
@@ -33,6 +34,7 @@
 
 ### 配套资料
 
+* [勘误表](https://github.com/cssmagic/AI-Assisted-LLM-Dev-Book/issues/4)
 * [本书相关网址清单](https://github.com/cssmagic/AI-Assisted-LLM-Dev-Book/issues/2)
 * [附送视频](https://www.cssmagic.net/lab/channel/)（微信扫码，关注视频号）
 
