@@ -18,6 +18,11 @@
 
 * 购买纸质书：[京东自营](https://cmcm.link/book/2/jd) | [签名书](https://cmcm.link/book/2/wd)
 
+
+### 其他地区版本
+
+* [台湾版](https://github.com/cssmagic/AI-Assisted-LLM-Dev-Book/issues/7)
+
 ## 文档与资料 <a name="doc">&nbsp;</a>
 
 ### 内容预览
