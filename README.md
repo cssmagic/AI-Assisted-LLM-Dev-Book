@@ -53,9 +53,9 @@
 
 * 关于本书案例部分的疑问、讨论、反馈，[请发 issue](https://github.com/cssmagic/AI-Assisted-LLM-Dev-Book/issues/new)。
 
-* 加入微信交流群：快人一步获取 AI 资讯、与数百名同好交流：
+* 出版社运营的官方读者群：（微信扫码后，回复 `48920` 进群）
 
-	![qun-qr](https://github.com/cssmagic/blog/assets/1231359/356aedff-723a-4b5d-a776-c9cacdcebec8)
+  ![QR](https://github.com/user-attachments/assets/ee3fd40a-2450-437b-b55a-8e2e360c1b0f)
 
 ***
 
